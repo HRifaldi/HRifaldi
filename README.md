@@ -1,28 +1,33 @@
-<h1 align="center">Hi, I'm Hernanda</h1>
+<h1 align="center">Hernanda Rifaldi</h1>
 <p align="center">
-Chemical Engineering graduate who is highly enthusiastic about Data Science.<br/>
-I enjoy turning complex process and business data into practical, data-driven insights.
+  Chemical Engineering Graduate | Full-Time Data Science Graduate at Hacktiv8
+</p>
+<p align="center">
+  I build practical, interpretable, and business-oriented data solutions.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hernanda-rifaldi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/hernanda-rifaldi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hernanda%20Rifaldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/HRifaldi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-HRifaldi-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-## About Me
-- Background: Chemical Engineering
-- Current Focus: Data Science, Machine Learning, and Data Analytics
-- Interests: Predictive Modeling, Risk Scoring, and Data Storytelling
-- Goal: Contribute to impactful decisions through robust and interpretable data solutions
+## Professional Summary
+I am a Chemical Engineering graduate with strong enthusiasm for Data Science.  
+I also completed the **Hacktiv8 Full-Time Data Science Program**, where I developed hands-on experience in analytics, machine learning, data engineering workflows, and deployment.
+
+## Core Focus
+- Predictive modeling and risk scoring
+- End-to-end data pipeline development
+- Data validation, model interpretability, and business insight delivery
 
 ## Featured Project
-**Credit Risk Prediction / Scoring System (RiskBeacon) - Apr 2026**  
-Built an end-to-end credit risk solution with preprocessing, EDA, feature engineering, validation, LightGBM modeling, SHAP interpretability, and Streamlit deployment on Hugging Face Spaces.  
-- App: https://huggingface.co/spaces/HRifaldi/final-project
+**RiskBeacon - Credit Risk Prediction & Scoring System**  
+Built an end-to-end solution for default risk prediction using LightGBM, SHAP, and Streamlit deployment.  
+- Demo: https://huggingface.co/spaces/HRifaldi/final-project
 
 ## Tech Stack
 <p>
@@ -34,6 +39,8 @@ Built an end-to-end credit risk solution with preprocessing, EDA, feature engine
   <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat"/>
   <img src="https://img.shields.io/badge/Great%20Expectations-2F5BEA?style=flat"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
 </p>
 
 ## GitHub Statistics
