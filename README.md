@@ -1,52 +1,90 @@
 <h1 align="center">Hernanda Rifaldi</h1>
+
 <p align="center">
-  Chemical Engineering Graduate | Full-Time Data Science Graduate at Hacktiv8
-</p>
-<p align="center">
-  I build practical, interpretable, and business-oriented data solutions.
+  Turning Data into Decisions | Ex-Production Staff → Data Scientist
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hernanda-rifaldi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hernanda%20Rifaldi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/HRifaldi">
-    <img src="https://img.shields.io/badge/GitHub-HRifaldi-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-## Professional Summary
-I am a Chemical Engineering graduate with strong enthusiasm for Data Science.  
-I also completed the **Hacktiv8 Full-Time Data Science Program**, where I developed hands-on experience in analytics, machine learning, data engineering workflows, and deployment.
+---
 
-## Core Focus
-- Predictive modeling and risk scoring
-- End-to-end data pipeline development
-- Data validation, model interpretability, and business insight delivery
+## 🚀 About Me
+I’m a Chemical Engineering graduate who transitioned into Data Science through hands-on industry-focused training at Hacktiv8.
 
-## Featured Project
-**RiskBeacon - Credit Risk Prediction & Scoring System**  
-Built an end-to-end solution for default risk prediction using LightGBM, SHAP, and Streamlit deployment.  
-- Demo: https://huggingface.co/spaces/HRifaldi/final-project
+My background in **production operations** gives me a strong understanding of real-world processes, inefficiencies, and data challenges — not just theory.
 
-## Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat"/>
-  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat"/>
-  <img src="https://img.shields.io/badge/Great%20Expectations-2F5BEA?style=flat"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+Now, I focus on building **practical, scalable, and interpretable data solutions** that solve real business problems.
+
+---
+
+## 🎯 What I Do
+- Build predictive models for decision-making (risk scoring, classification)
+- Design end-to-end data workflows (ETL → modeling → deployment)
+- Translate raw data into clear, actionable insights
+- Ensure model reliability with validation & interpretability techniques
+
+---
+
+## 🧠 Highlight Project
+### 🔎 RiskBeacon — Credit Risk Intelligence System
+End-to-end machine learning system to predict loan default risk.
+
+**What I built:**
+- LightGBM model for high-performance prediction
+- SHAP-based explainability for transparent decisions
+- Data validation pipeline using Great Expectations
+- Interactive app using Streamlit for real-time scoring
+
+🔗 **Live Demo:**  
+https://huggingface.co/spaces/HRifaldi/final-project
+
+---
+
+## ⚙️ Tech Stack
+**Languages & Core Tools**
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (PostgreSQL)
+
+**Machine Learning & Analytics**
+- LightGBM
+- SHAP (Model Interpretability)
+
+**Data Engineering**
+- Apache Airflow (Workflow orchestration)
+- Great Expectations (Data validation)
+
+**Deployment & Apps**
+- Streamlit
+- Hugging Face Spaces
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HRifaldi&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRifaldi&layout=compact&theme=tokyonight"/>
 </p>
 
-## GitHub Statistics
-<p align="left">
-  <a href="https://github.com/HRifaldi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HRifaldi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRifaldi&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
+---
+
+## 💡 Currently Exploring
+- Production-level ML systems (MLOps)
+- Cloud-based data pipelines (AWS / GCP)
+- Real-time analytics & monitoring
+
+---
+
+## 🤝 Let’s Connect
+I’m open to opportunities in:
+- Data Analyst
+- Data Scientist
+- Data-driven Operations / Production Analytics
+
+Let’s build something impactful 🚀
